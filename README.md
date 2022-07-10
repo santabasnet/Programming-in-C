@@ -5,7 +5,7 @@ Undergraduate course materials for the first year Engineering and IT students.
 ## 1. Lecture Materials
   Contains all the slides and the examples used in the lecture class.
   
-- Chapter - 1 : Introduction to Computer Programming.
+- Chapter - 1 : [Lecture/Chapter%201%20and%202/Chapter%201%20and%202.pdf](Introduction to Computer Programming.)
 - Chapter - 2 : Flowchrt and Documentations.
 - Chapter - 3 : Variables nd Data Types.
 - Chapter - 4 : Decisions and Loops
