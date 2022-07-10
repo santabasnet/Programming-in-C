@@ -9,11 +9,11 @@ Undergraduate course materials for the first year Engineering and IT students.
 - Chapter - 2 : [Flowchart and Documentations.](Lecture/Chapter%201%20and%202/Chapter%201%20and%202.pdf)
 - Chapter - 3 : [Variables nd Data Types.](Lecture/Chapter%203/Chapter%203.pdf)
 - Chapter - 4 : [Decisions and Loops.](Lecture/Chapter%204/Chapter%204.pdf)
-- Chapter - 5 : Arrays and Strings.
-- Chapter - 6 : Functions.
-- Chapter - 7 : Pointers and Arrays.
-- Chapter - 8 : User Defined Data Types.
-- Chapter - 9 : Data Files/File Handling.
+- Chapter - 5 : [Arrays and Strings.](Lecture/Chapter%205/Chapter%205.pdf)
+- Chapter - 6 : [Functions.](Lecture/Chapter%206/Chapter%206.pdf)
+- Chapter - 7 : [Pointers and Arrays.](Lecture/Chapter%207/Chapter%207.pdf)
+- Chapter - 8 : [User Defined Data Types.](Lecture/Chapter%208/Chapter%208.pdf)
+- Chapter - 9 : [Data Files/File Handling.](Lecture/Chapter%209/Examples)
   
   
 ## 2. Lab Materials.
