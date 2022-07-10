@@ -1,6 +1,6 @@
 # Programming-in-C
 
-Undergraduate course materials for Engineering and IT students.
+Undergraduate course materials for the first year Engineering and IT students.
 
 ## 1. Lecture Materials
   Contains all the slides and the examples used in the lecture class.
