@@ -18,11 +18,11 @@ Undergraduate course materials for the first year Engineering and IT students.
   
 ## 2. Lab Materials.
   Contains all the lab-sheets and their solutions.
-  - Lab Sheet 1: 
-  - Lab Sheet 2:
-  - Lab Sheet 3:
-  - Lab Sheet 4:
-  - Lab Sheet 5:
-  - Lab Sheet 6:
-  - Lab Sheet 7:
-  - Lab Sheet 8:
+  - Lab Sheet 1: C Language Basics.
+  - Lab Sheet 2: Selection of Appropriate Data Type.
+  - Lab Sheet 3: Decision Statements.
+  - Lab Sheet 4: Iterative(Loop) Statements.
+  - Lab Sheet 5: Arrays and Strings.
+  - Lab Sheet 6: User Defined Types and Functions.
+  - Lab Sheet 7: Pointers.
+  - Lab Sheet 8: Data Files.
