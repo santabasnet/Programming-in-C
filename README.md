@@ -6,8 +6,8 @@ Undergraduate course materials for the first year Engineering and IT students.
   Contains all the slides and the examples used in the lecture class.
   
 - Chapter - 1 : [Introduction to Computer Programming.](Lecture/Chapter%201%20and%202/Chapter%201%20and%202.pdf)
-- Chapter - 2 : Flowchrt and Documentations.
-- Chapter - 3 : Variables nd Data Types.
+- Chapter - 2 : [Flowchrt and Documentations.](Lecture/Chapter%201%20and%202/Chapter%201%20and%202.pdf)
+- Chapter - 3 : [Variables nd Data Types.](Lecture/Chapter%203/Chapter%203.pdf)
 - Chapter - 4 : Decisions and Loops
 - Chapter - 5 : Arrays and Strings.
 - Chapter - 6 : Functions.
