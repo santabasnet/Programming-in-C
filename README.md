@@ -5,15 +5,15 @@ Undergraduate course materials for the first year Engineering and IT students.
 ## 1. Lecture Materials
   Contains all the slides and the examples used in the lecture class.
   
-- Chapter - 1 :
-- Chapter - 2 :
-- Chapter - 3 : 
-- Chapter - 4 :
+- Chapter - 1 : Introduction to Computer Programming.
+- Chapter - 2 : Flowchrt and Documentations.
+- Chapter - 3 : Variables nd Data Types.
+- Chapter - 4 : Decisions and Loops
 - Chapter - 5 :
-- Chapter - 6 : Functions
-- Chapter - 7 : Pointers
+- Chapter - 6 : Functions.
+- Chapter - 7 : Pointers.
 - Chapter - 8 : User Defined Data Types.
-- Chapter - 9 : Data Files/File Handling 
+- Chapter - 9 : Data Files/File Handling.
   
   
 ## 2. Lab Materials.
