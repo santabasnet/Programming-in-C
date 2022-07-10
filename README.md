@@ -2,5 +2,8 @@
 
 Undergraduate course materials for Engineering and IT students.
 
-## 1. Lecutre Materials
+## 1. Lecture Materials
+  Contains all the slides and the examples used in the lecture class.
+  
 ## 2. Lab Materials.
+  Contains all the lab-sheets and their solutions.
