@@ -27,4 +27,6 @@ Undergraduate course materials for the first year Engineering and IT students.
   - Lab Sheet 7: [Pointers.](Lab/Lab%20Sheet%20-%207)
   - Lab Sheet 8: [Data Files.](Lab/Lab%20Sheet%20-%208)
 
-Thanks to Dennis Ritchie and Byron S. Gottfried. 
+```C
+/** Thanks to Dennis Ritchie and Byron S. Gottfried. **/
+```
