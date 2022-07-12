@@ -29,4 +29,9 @@ Undergraduate course materials for the first year Engineering and IT students.
 
 ```C
 /** Thanks to Dennis Ritchie and Byron S. Gottfried. **/
+#include<stdio.h>
+int main(){
+  printf("Thanks to Dennis Ritchie & Byron S. Gottfried.\n");
+  return (0);
+}
 ```
