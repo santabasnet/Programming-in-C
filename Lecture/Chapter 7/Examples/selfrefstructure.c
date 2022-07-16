@@ -1,4 +1,12 @@
-/** Self referential pointer **/
+/**
+ * Subject: Programming in C.
+ * Self referential pointer.
+ *
+ * Solution given by Santa Basnet.
+ * Everest Engineering College, Lalitpur.
+ * Date: 10/07/2022
+ */
+
 #include<stdlib.h>
 #include<stdio.h>
 
