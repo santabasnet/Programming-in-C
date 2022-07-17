@@ -43,6 +43,18 @@ int main() {
     for (int i = 0; i < uCount; i++) {
         printf("\t%d -> %d\n", unique[i], frequency[i]);
     }
+
+    /**
+     * Calculation of Mode and Display it.
+     */
+    int max = 0, mode = unique[0];
+    for (int i = 0; i < uCount; i++) {
+        if (frequency[i] > max) {
+            max = frequency[i];
+            mode = unique[i];
+        }
+    }
+    printf("Mode value : %d", mode);
     return 0;
 }
 
@@ -55,4 +67,5 @@ Frequency Table:
 	3 -> 2
 	8 -> 1
 	2 -> 2
+ Mode value : 5
 */
